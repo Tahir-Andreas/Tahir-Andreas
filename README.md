@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahir Anwary</h1>
 <h3 align="center">A enthusiastic Chartered Accountant from South Africa</h3>
 
-![MasterHead](https://github.com/TahirAnwary/NasimAnwary/blob/main/Black%20Gradient%20Technology%20LinkedIn%20%20Background%20Photo.png)
+![MasterHead](https://github.com/Tahir-Andreas/Tahir-Andreas/blob/main/Tahir.png)
 
 
 - 🤓 Former Chartered Accountant turned Developer
